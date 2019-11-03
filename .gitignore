@@ -3,3 +3,6 @@ node_modules
 .idea/NTRManagement.iml
 .idea/misc.xml
 .idea/inspectionProfiles/Project_Default.xml
+.idea/encodings.xml
+.idea/modules.xml
+.idea/vcs.xml
